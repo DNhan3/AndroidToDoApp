@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "521726732775",
+    "project_id": "todoapp-dnhan",
+    "storage_bucket": "todoapp-dnhan.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:521726732775:android:3a20ba410e30bdd5137542",
+        "android_client_info": {
+          "package_name": "com.example.todoapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD5txKbzTdTU5P-zDDDuYCfhicEQ8u8DoE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
